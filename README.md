@@ -27,9 +27,9 @@ De aquí en adelante, puede checar nuestra [Jupyter Notebook](https://github.com
 ## Agradecimientos
 Este proyecto fue posible gracias a la ayuda y enseñanza de
 
-![alt text](https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png "Logo Title Text 1")
+![Maestría en Ciencia de Datos](https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png "Maestría en Ciencia de Datos")
 </a> </a>
-![alt text](https://mcd.unison.mx/wp-content/themes/awaken/img/logo.png "Logo Title Text 1")
+![Universidad de Sonora](https://mcd.unison.mx/wp-content/themes/awaken/img/logo.png "Universidad de Sonora")
 
   
 
