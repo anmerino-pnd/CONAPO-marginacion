@@ -26,8 +26,10 @@ De aquí en adelante, puede checar nuestra [Jupyter Notebook](https://github.com
 
 ## Agradecimientos
 Este proyecto fue posible gracias a la ayuda y enseñanza de
-<a href="https://mcd.unison.mx">
-<img src="site/img/logo_mcd.png" alt="Maestría en Ciencia de Datos" height="50"/>
+
+![alt text](https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png "Logo Title Text 1")
+</a> </a>
+![alt text](https://mcd.unison.mx/wp-content/themes/awaken/img/logo.png "Logo Title Text 1")
 
   
 
